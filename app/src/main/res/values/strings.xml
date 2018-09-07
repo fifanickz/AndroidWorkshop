@@ -2,4 +2,5 @@
     <string name="app_name">Demo2</string>
     <string name="app_title">Demo2</string>
     <string name="btnSubmit">Submit</string>
+    <string name="tvHeight">Height</string>
 </resources>
